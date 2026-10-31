@@ -1,0 +1,6 @@
+{
+  "name": "Vet Dr. Sydur Rahaman - Veterinary Surgeon & Consultant",
+  "description": "Personal website of Dr. Sydur Rahaman (DVM, CVASU), veterinary surgeon and consultant in Dhaka, Bangladesh. Offering preventive care, pet surgery, and health consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
